@@ -29,10 +29,10 @@ O sistema baseia-se nas seguintes fórmulas matemáticas para realizar as conver
 
 ## 🔧 Como Executar
 
-1. Certifique-se de que tem um servidor local instalado (como XAMPP)
-2. Coloque os ficheiros do projeto na pasta do servidor
-3. Aceda ao projeto através do navegador
-4. Introduza a temperatura em Celsius e clique em **Converter**.
+1. Certifique se há um servidor local instalado (como XAMPP)
+2. Coloque os arquivos do projeto na pasta do servidor
+3. Acesse o projeto através do navegador
+4. Digite a temperatura em Celsius e clique em **Converter**.
 
 ---
 
